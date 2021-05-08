@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git@github.com:tealmatrix/rain.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/git@github.com:tealmatrix/rain.git/static/js/main.3a17e19e.chunk.js",
+    "main.js.map": "/git@github.com:tealmatrix/rain.git/static/js/main.3a17e19e.chunk.js.map",
+    "runtime-main.js": "/git@github.com:tealmatrix/rain.git/static/js/runtime-main.d38c1a97.js",
+    "runtime-main.js.map": "/git@github.com:tealmatrix/rain.git/static/js/runtime-main.d38c1a97.js.map",
+    "static/js/2.e5c27f10.chunk.js": "/git@github.com:tealmatrix/rain.git/static/js/2.e5c27f10.chunk.js",
+    "static/js/2.e5c27f10.chunk.js.map": "/git@github.com:tealmatrix/rain.git/static/js/2.e5c27f10.chunk.js.map",
+    "static/js/3.8e73471c.chunk.js": "/git@github.com:tealmatrix/rain.git/static/js/3.8e73471c.chunk.js",
+    "static/js/3.8e73471c.chunk.js.map": "/git@github.com:tealmatrix/rain.git/static/js/3.8e73471c.chunk.js.map",
+    "index.html": "/git@github.com:tealmatrix/rain.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/git@github.com:tealmatrix/rain.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e5c27f10.chunk.js.LICENSE.txt": "/git@github.com:tealmatrix/rain.git/static/js/2.e5c27f10.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git@github.com:tealmatrix/rain.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d38c1a97.js",
+    "static/js/2.e5c27f10.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3a17e19e.chunk.js"
+  ]
+}
